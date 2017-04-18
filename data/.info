@@ -1,0 +1,4 @@
+SPI Flash File System directory.
+
+Add files to put in resulting image and keep in mind that SPIFFS supports only
+one level (root).
